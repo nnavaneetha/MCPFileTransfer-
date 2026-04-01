@@ -1,0 +1,16 @@
+{
+
+	"url": [
+		"https://www.compas.siemens-info.com/",
+		"https://beta.compasquality.siemens-info.com/",
+		"https://dev9.compasquality.siemens-info.com/",
+		"https://q02.compasquality.siemens-info.com/",
+		"https://d02.compasquality.siemens-info.com/",
+		"https://dev2.compasquality.siemens-info.com/",		
+		
+	],
+	"useC3Models": "true",
+	"useSandy": true,
+	"version": "10"
+
+}
