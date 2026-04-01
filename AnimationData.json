@@ -1,0 +1,153 @@
+{
+	"animationDetails": [{
+			"modelName": "Medium-voltage gas-insulated switchgear",
+			"animationList": [{
+					"name": "Quick Connect",
+					"description": "Reduces bussing connections from many to one"
+				},
+				{
+					"name": "Quick Torque",
+					"description": "Eliminates torque readings with its simplified breakaway nut design"
+				},
+				{
+					"name": "Quick Phase",
+					"description": "Allows for independent phasing which streamlines ordering and phase balancing."
+				},
+				{
+					"name": "Quick Roll",
+					"description": "Allows modules to glide down mounting rail for easy installation and lineup."
+				},
+				{
+					"name": "Quick Bolt",
+					"description": "Makes mechanical connections faster using spring loaded, captive bolts that pass through automatically when lined up."
+				}
+			]
+		},{
+			"modelName": "Metering",
+			"animationList": [{
+					"name": "Quick Connect",
+					"description": "Reduces bussing connections from many to one"
+				},
+				{
+					"name": "Quick Torque",
+					"description": "Eliminates torque readings with its simplified breakaway nut design"
+				},
+				{
+					"name": "Quick Phase",
+					"description": "Allows for independent phasing which streamlines ordering and phase balancing."
+				},
+				{
+					"name": "Quick Roll",
+					"description": "Allows modules to glide down mounting rail for easy installation and lineup."
+				},
+				{
+					"name": "Quick Bolt",
+					"description": "Makes mechanical connections faster using spring loaded, captive bolts that pass through automatically when lined up."
+				}
+			]
+		},{
+			"modelName": "Gas Insulated Switchgear",
+			"animationList": [{
+					"name": "Quick Connect",
+					"description": "Reduces bussing connections from many to one"
+				},
+				{
+					"name": "Quick Torque",
+					"description": "Eliminates torque readings with its simplified breakaway nut design"
+				},
+				{
+					"name": "Quick Phase",
+					"description": "Allows for independent phasing which streamlines ordering and phase balancing."
+				},
+				{
+					"name": "Quick Roll",
+					"description": "Allows modules to glide down mounting rail for easy installation and lineup."
+				},
+				{
+					"name": "Quick Bolt",
+					"description": "Makes mechanical connections faster using spring loaded, captive bolts that pass through automatically when lined up."
+				}
+			]
+		},
+		{
+			"modelName": "Distribution Switchboards",
+			"animationList": [{
+					"name": "Skinny Main Small Section Opening",
+					"description": "Skinny Main switchboard is the narrowest single main in the industry at 25” wide"
+				},
+				{
+					"name": "Skinny Main",
+					"description": "Skinny Main switchboard is the narrowest single main in the industry at 25” wide"
+				},
+				{
+					"name": "Wide Main",
+					"description": "Maintenance mode to comply with NEC code, Ability to electrically operate breakers, Modbus and Profibus communications."
+				},
+				{
+					"name": "Switchboard Distribution",
+					"description": "Distribution section allows for dual mounted 400a breakers in a 38” wide section."
+				},
+				{
+					"name": "SEM3 Embedded Compartment",
+					"description": "SEM3 Embedded Metering System integrates with your gear, allowing the controller to be directly mounted in the unit space."
+				}
+			]
+		},
+		{
+			"modelName": "Safety Switches",
+			"animationList": [{
+					"name": "Lever Moves Up/Down with Section Closed",
+					"description": "Visible red grip handle and viewing window allows for quick, safe inspection at a distance and operation."
+				},
+				{
+					"name": "Lever Moves Up/Down with Section Open",
+					"description": "Quick make, quick break operation reduces heats, increases longevity, and enhances performance."
+				}
+			]
+		},
+		{
+			"modelName": "Panel Board",
+			"animationList": [{
+					"name": "Explosion (Vertical)",
+					"description": "Unassembled Panelboard offering is an exact match with the factory built panelboards"
+				},
+				{
+					"name": "Explosion (Horizontal)",
+					"description": "Field convertible main breaker and main lug kit allow switching with no change in box size or cabling."
+				},
+				{
+					"name": "Inverted",
+					"description": "Design allows the panel to be inverted in the field and keeps its labeling legible."
+				}
+			]
+		},
+		{
+			"modelName": "Power Panels",
+			"animationList": [{
+					"name": "Explosion (Vertical)",
+					"description": "Unassembled Panelboard offering is an exact match with the factory built panelboards"
+				},
+				{
+					"name": "Explosion (Horizontal)",
+					"description": "Field convertible main breaker and main lug kit allow switching with no change in box size or cabling."
+				},
+				{
+					"name": "Inverted",
+					"description": "Design allows the panel to be inverted in the field and keeps its labeling legible."
+				}
+			]
+		},
+		{
+			"modelName": "Medium-voltage motor controllers",
+			"animationList": [{
+					"name": "connect",
+					"description": "With the plug-in unit OFF and the remote operator mounted in place on the door, the pendant’s red CONNECT button can be pressed and held to automatically connect the stabs onto the vertical bus. An illuminated OPERATION COMPLETE light shows that the motor has finished connecting the stabs. The position indicator on the front of the unit will show a red background and closed-circuit symbol when fully connected."
+				},
+				{
+					"name": "dissconnect",
+					"description": "With the plug-in unit OFF and the remote operator mounted in place on the door, the pendant’s green DISCONNECT button can be pressed and held to automatically disconnect the stabs from the vertical bus. An illuminated OPERATION COMPLETE light shows the motor has finished disconnecting the stabs. The position indicator on the front of the unit will show a green background and open-circuit symbol when fully disconnected."
+				}
+			]
+		}
+	]
+}
