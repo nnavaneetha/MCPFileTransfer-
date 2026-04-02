@@ -1,0 +1,57 @@
+,{
+			"modelName": "Commercial Multi-Metering Switchboards",
+			"version": "14",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Commercial Multi-Metering Switchboards.fbx?version=2.0",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Switchboards",
+			"version": "7",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/SwitchBoard.fbx?version=2.0",
+			"hotspotUrl":"",
+			"animations": []
+
+		},{
+			"modelName": "Low-voltage motor control centers",
+			"version": "3",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/model95.fbx?version=2.0",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Medium-voltage metal-clad switchgear",
+			"version": "2",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Medium voltage metal clad switchgear.fbx?version=2.0",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Transformers",
+			"version": "2",
+			"url": "https://raw.githubusercontent.com/nnavaneetha/Compasmodels/master/transformer.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		},{
+			"modelName": "95plus",
+			"version": "4",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/file5.fbx?version=2.0",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "switchgear",
+			"version": "8",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}, {
+			"modelName": "Medium-voltage metal-enclose switchgear",
+			"version": "8",
+			"url": "https://q2.compasquality.siemens-info.com/c3services/doc/d5/20181/116541768/Switchgear.fbx",
+			"hotspotUrl":"",
+			"animations": []
+
+		}
