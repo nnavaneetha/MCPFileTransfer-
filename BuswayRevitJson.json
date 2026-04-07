@@ -1,0 +1,2130 @@
+{
+  "epm": [
+    {
+      "instance": {
+        "cstic": [
+          {
+            "no": "60030",
+            "value": "dvfsdf",
+            "rule": null
+          },
+          {
+            "no": "751804",
+            "value": "BUSWAY",
+            "rule": null
+          },
+          {
+            "no": "75043",
+            "value": "SENTRON",
+            "rule": null
+          },
+          {
+            "no": "75044",
+            "value": "225.0",
+            "rule": null
+          },
+          {
+            "no": "75046",
+            "value": "COPPER",
+            "rule": null
+          },
+          {
+            "no": "75159",
+            "value": "240 3Ø3W DELTA AC",
+            "rule": null
+          },
+          {
+            "no": "75162",
+            "value": "",
+            "rule": null
+          },
+          {
+            "no": "75047",
+            "value": "INTERNAL",
+            "rule": null
+          },
+          {
+            "no": "75160",
+            "value": "INDOOR",
+            "rule": null
+          },
+          {
+            "no": "75023",
+            "value": "IP40",
+            "rule": null
+          },
+          {
+            "no": "75152",
+            "value": "10.0",
+            "rule": null
+          },
+          {
+            "no": "75052",
+            "value": "85.0",
+            "rule": null
+          },
+          {
+            "no": "70015",
+            "value": "1",
+            "rule": null
+          }
+        ],
+        "instance": [
+          {
+            "cstic": [
+              {
+                "no": "75042",
+                "value": "QUICK QUOTE CONFIGURATION",
+                "rule": null
+              },
+              {
+                "no": "70015",
+                "value": "2",
+                "rule": null
+              }
+            ],
+            "instance": [
+              {
+                "cstic": [ ],
+                "instance": [ ],
+                "positions": {
+                  "x": null,
+                  "y": null,
+                  "z": null
+                },
+                "scaling": {
+                  "x": null,
+                  "y": null,
+                  "z": null
+                },
+                "rotation": {
+                  "x": null,
+                  "y": null,
+                  "z": null
+                },
+                "relationships": {
+                  "linebreakposition": null,
+                  "linebreakscaling": null,
+                  "tcon": null,
+                  "leftpartner": null,
+                  "elbow": null,
+                  "partner": null,
+                  "leftfeeder": null,
+                  "tpartner": null,
+                  "tconleftpartner": null,
+                  "phasearrow": null,
+                  "phasearrowtext": null,
+                  "hangers": null,
+                  "roofs": null,
+                  "walls": null,
+                  "meters": null,
+                  "panels": null,
+                  "fusibleplugs": null,
+                  "circuitbreakers": null,
+                  "reducers": null,
+                  "path": null,
+                  "crosspartner": null,
+                  "crosspartner2": null,
+                  "crossleftpartner": null,
+                  "jmtboxes": null,
+                  "linebreak": null
+                },
+                "generalprop": [ ],
+                "dimension": null,
+                "name": "TYZ:BW_ENG_SERV",
+                "type": "",
+                "rule": null,
+                "uid": null,
+                "isSketcher": "false"
+              },
+              {
+                "cstic": [ ],
+                "instance": [
+                  {
+                    "cstic": [
+                      {
+                        "no": "10111",
+                        "value": "5.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "48",
+                        "value": "IP40",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "6",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "-13.358538557721774",
+                      "y": "17.995132458202313",
+                      "z": "-0.3671800336383815"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "4.490264916404627",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "9",
+                      "elbow": "",
+                      "partner": "5",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "674481259",
+                      "phasearrowtext": "",
+                      "hangers": "[]",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": "NA",
+                      "width": "3.9",
+                      "height": "5",
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": null,
+                      "armBLength": null,
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_FEDR_Q",
+                    "type": "TYZ:BWSEN_FEDR_Q",
+                    "rule": "",
+                    "uid": "6",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10111",
+                        "value": "22.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "48",
+                        "value": "IP40",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "9",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "-2.296628275709806",
+                      "y": "20.240264916404627",
+                      "z": "-0.3671800336383815"
+                    },
+                    "scaling": {
+                      "x": "22.223820564023935",
+                      "y": "1.0",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "12",
+                      "elbow": "10",
+                      "partner": "6",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "674481259",
+                      "phasearrowtext": "",
+                      "hangers": "[\"7\",\"8\"]",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": "NA",
+                      "width": "3.9",
+                      "height": "5",
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": null,
+                      "armBLength": null,
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_FEDR_Q",
+                    "type": "TYZ:BWSEN_FEDR_Q",
+                    "rule": "",
+                    "uid": "9",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10111",
+                        "value": "13.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "48",
+                        "value": "IP40",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "12",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "8.81528200630216",
+                      "y": "20.240264916404627",
+                      "z": "5.873262530214124"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "1.0",
+                      "z": "12.58088512770501"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "14",
+                      "elbow": "13",
+                      "partner": "9",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "674481259",
+                      "phasearrowtext": "",
+                      "hangers": "[\"11\"]",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": "NA",
+                      "width": "3.9",
+                      "height": "5",
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": null,
+                      "armBLength": null,
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_FEDR_Q",
+                    "type": "TYZ:BWSEN_FEDR_Q",
+                    "rule": "",
+                    "uid": "12",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10111",
+                        "value": "7.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "48",
+                        "value": "IP40",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "14",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "8.81528200630216",
+                      "y": "23.494314859270208",
+                      "z": "12.163705094066628"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "6.908099885731161",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "16",
+                      "elbow": "15",
+                      "partner": "12",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "674481259",
+                      "phasearrowtext": "",
+                      "hangers": "[]",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": "NA",
+                      "width": "3.9",
+                      "height": "5",
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": null,
+                      "armBLength": null,
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_FEDR_Q",
+                    "type": "TYZ:BWSEN_FEDR_Q",
+                    "rule": "",
+                    "uid": "14",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10111",
+                        "value": "9.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "48",
+                        "value": "IP40",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "16",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "13.214501815892795",
+                      "y": "26.94836480213579",
+                      "z": "12.163705094066628"
+                    },
+                    "scaling": {
+                      "x": "8.898439619181271",
+                      "y": "1.0",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "18",
+                      "elbow": "17",
+                      "partner": "14",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "674481259",
+                      "phasearrowtext": "",
+                      "hangers": "[]",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": "NA",
+                      "width": "3.9",
+                      "height": "5",
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": null,
+                      "armBLength": null,
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_FEDR_Q",
+                    "type": "TYZ:BWSEN_FEDR_Q",
+                    "rule": "",
+                    "uid": "16",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10008",
+                        "value": "1.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "74",
+                        "value": "",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "18",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "17.663721625483433",
+                      "y": "26.94836480213579",
+                      "z": "12.163705094066628"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "1.0",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "",
+                      "elbow": "",
+                      "partner": "16",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": "24",
+                      "width": "13",
+                      "height": "30",
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": null,
+                      "armBLength": null,
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": "34",
+                      "wireBendSpaceStd": "17",
+                      "wireBendSpaceExt": "21",
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_ETBX_Q",
+                    "type": "TYZ:BWSEN_ETBX_Q",
+                    "rule": "",
+                    "uid": "18",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10008",
+                        "value": "1.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "46",
+                        "value": "90",
+                        "rule": null
+                      },
+                      {
+                        "no": "47",
+                        "value": "IP40",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "10",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "-12.958539009094238",
+                      "y": "19.88526468873024",
+                      "z": "-0.3671800196170807"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "1.0",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "6",
+                      "elbow": "",
+                      "partner": "9",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": null,
+                      "width": null,
+                      "height": "NA",
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": "12",
+                      "armBLength": "12",
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_ELBO_Q",
+                    "type": "TYZ:BWSEN_ELBO_Q",
+                    "rule": "",
+                    "uid": "10",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10008",
+                        "value": "1.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "46",
+                        "value": "90",
+                        "rule": null
+                      },
+                      {
+                        "no": "47",
+                        "value": "IP40",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "13",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "8.145281833410262",
+                      "y": "20.240264892578125",
+                      "z": "0.0328199677169323"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "1.0",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "9",
+                      "elbow": "",
+                      "partner": "12",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": null,
+                      "width": null,
+                      "height": "NA",
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": "12",
+                      "armBLength": "12",
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_ELBO_Q",
+                    "type": "TYZ:BWSEN_ELBO_Q",
+                    "rule": "",
+                    "uid": "13",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10008",
+                        "value": "1.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "46",
+                        "value": "90",
+                        "rule": null
+                      },
+                      {
+                        "no": "47",
+                        "value": "IP40",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "15",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "8.815281867980957",
+                      "y": "20.34026527404785",
+                      "z": "11.493705075979232"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "1.0",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "12",
+                      "elbow": "",
+                      "partner": "14",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": null,
+                      "width": null,
+                      "height": "NA",
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": "10",
+                      "armBLength": "10",
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_ELBO_Q",
+                    "type": "TYZ:BWSEN_ELBO_Q",
+                    "rule": "",
+                    "uid": "15",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10008",
+                        "value": "1.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "46",
+                        "value": "90",
+                        "rule": null
+                      },
+                      {
+                        "no": "47",
+                        "value": "IP40",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "17",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "9.215282440185547",
+                      "y": "26.593364053964613",
+                      "z": "12.163704872131348"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "1.0",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "14",
+                      "elbow": "",
+                      "partner": "16",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": null,
+                      "width": null,
+                      "height": "NA",
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": "12",
+                      "armBLength": "12",
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_ELBO_Q",
+                    "type": "TYZ:BWSEN_ELBO_Q",
+                    "rule": "",
+                    "uid": "17",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10008",
+                        "value": "1.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "3",
+                        "value": "U.S. STANDARD",
+                        "rule": null
+                      },
+                      {
+                        "no": "55",
+                        "value": "IP40",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "5",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "-13.358538557721774",
+                      "y": "15.5",
+                      "z": "-0.3671800336383815"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "1.0",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "3.141592653589793"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "6",
+                      "elbow": "",
+                      "partner": "20910446",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "888694789",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": "8",
+                      "width": null,
+                      "height": null,
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": null,
+                      "armBLength": null,
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": "8",
+                      "plateWidth": "1.75"
+                    },
+                    "name": "TYZ:BWSEN_FGED_Q",
+                    "type": "TYZ:BWSEN_FGED_Q",
+                    "rule": "",
+                    "uid": "5",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10008",
+                        "value": "1.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "7",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "-3.858538557721774",
+                      "y": "19.740264916404627",
+                      "z": "-0.3671800336383815"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "1.0",
+                      "z": "8.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "",
+                      "elbow": "",
+                      "partner": "9",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": "10",
+                      "width": null,
+                      "height": null,
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": null,
+                      "armBLength": null,
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_TPHR",
+                    "type": "TYZ:BWSEN_TPHR",
+                    "rule": "",
+                    "uid": "7",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10008",
+                        "value": "1.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "8",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "6.141461442278226",
+                      "y": "19.740264916404627",
+                      "z": "-0.3671800336383815"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "1.0",
+                      "z": "8.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "",
+                      "elbow": "",
+                      "partner": "9",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": "10",
+                      "width": null,
+                      "height": null,
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": null,
+                      "armBLength": null,
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_TPHR",
+                    "type": "TYZ:BWSEN_TPHR",
+                    "rule": "",
+                    "uid": "8",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [
+                      {
+                        "no": "10008",
+                        "value": "1.0",
+                        "rule": null
+                      },
+                      {
+                        "no": "70015",
+                        "value": "11",
+                        "rule": null
+                      }
+                    ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "8.81528200630216",
+                      "y": "19.740264916404627",
+                      "z": "9.13281996636162"
+                    },
+                    "scaling": {
+                      "x": "8.0",
+                      "y": "1.0",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "",
+                      "elbow": "",
+                      "partner": "12",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": {
+                      "length": "10",
+                      "width": null,
+                      "height": null,
+                      "boxArmExtension": null,
+                      "wireBendSpaceAExt": null,
+                      "wireBendSpaceCStd": null,
+                      "wireBendSpaceCExt": null,
+                      "armALength": null,
+                      "armBLength": null,
+                      "armCLength": null,
+                      "boxLength": null,
+                      "boxWidth": null,
+                      "boxHeight": null,
+                      "clOfEachJoint": null,
+                      "lengthA": null,
+                      "lengthB": null,
+                      "lengthC": null,
+                      "lengthD": null,
+                      "lengthE": null,
+                      "lengthF": null,
+                      "lengthJ": null,
+                      "lengthK": null,
+                      "lengthL": null,
+                      "lengthM": null,
+                      "lengthN": null,
+                      "lengthP": null,
+                      "heightExtended": null,
+                      "wireBendSpaceStd": null,
+                      "wireBendSpaceExt": null,
+                      "plateLength": null,
+                      "plateWidth": null
+                    },
+                    "name": "TYZ:BWSEN_TPHR",
+                    "type": "TYZ:BWSEN_TPHR",
+                    "rule": "",
+                    "uid": "11",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [ ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "-13.358538557721774",
+                      "y": "18.5",
+                      "z": "0.3828199663616185"
+                    },
+                    "scaling": {
+                      "x": "0.5",
+                      "y": "1.0",
+                      "z": "2.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "6.283185307179586",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "",
+                      "elbow": "",
+                      "partner": "",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [ ],
+                    "dimension": null,
+                    "name": "BUSWAY_PHASE_ARROW",
+                    "type": null,
+                    "rule": "",
+                    "uid": "674481259",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [ ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "-15.358538557721774",
+                      "y": "16.5",
+                      "z": "1.6328199663616185"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "1.0",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "1.5707963267948966",
+                      "y": "4.71238898038469",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "",
+                      "elbow": "",
+                      "partner": "",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [
+                      {
+                        "no": "phaseText",
+                        "value": "NCBA",
+                        "rule": ""
+                      },
+                      {
+                        "no": "direction",
+                        "value": "left",
+                        "rule": ""
+                      }
+                    ],
+                    "dimension": null,
+                    "name": "BUSWAY_PHASE_TEXT",
+                    "type": null,
+                    "rule": "",
+                    "uid": "888694789",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [ ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "-12.02520522438844",
+                      "y": "8.0",
+                      "z": "0.9661532996949518"
+                    },
+                    "scaling": {
+                      "x": "1.0",
+                      "y": "3.75",
+                      "z": "1.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "5",
+                      "elbow": "",
+                      "partner": "464258047",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [
+                      {
+                        "no": "WSSections",
+                        "value": "1",
+                        "rule": ""
+                      },
+                      {
+                        "no": "WSHeight",
+                        "value": "90",
+                        "rule": ""
+                      },
+                      {
+                        "no": "WSWidth",
+                        "value": "48",
+                        "rule": ""
+                      },
+                      {
+                        "no": "WSDepth",
+                        "value": "48",
+                        "rule": ""
+                      },
+                      {
+                        "no": "direction",
+                        "value": "left",
+                        "rule": ""
+                      }
+                    ],
+                    "dimension": null,
+                    "name": "BUSWAY_SWITCH_BOARD",
+                    "type": null,
+                    "rule": "",
+                    "uid": "20910446",
+                    "isSketcher": "true"
+                  },
+                  {
+                    "cstic": [ ],
+                    "instance": [ ],
+                    "positions": {
+                      "x": "-12.02520522438844",
+                      "y": "0.5",
+                      "z": "0.9661532996949518"
+                    },
+                    "scaling": {
+                      "x": "2.0",
+                      "y": "0.16666666666666666",
+                      "z": "2.0"
+                    },
+                    "rotation": {
+                      "x": "0.0",
+                      "y": "0.0",
+                      "z": "0.0"
+                    },
+                    "relationships": {
+                      "linebreakposition": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "linebreakscaling": {
+                        "x": "null",
+                        "y": "null",
+                        "z": "null"
+                      },
+                      "tcon": "",
+                      "leftpartner": "",
+                      "elbow": "",
+                      "partner": "20910446",
+                      "leftfeeder": "",
+                      "tpartner": "",
+                      "tconleftpartner": "",
+                      "phasearrow": "",
+                      "phasearrowtext": "",
+                      "hangers": "",
+                      "roofs": "",
+                      "walls": "",
+                      "meters": "",
+                      "panels": "",
+                      "fusibleplugs": null,
+                      "circuitbreakers": null,
+                      "reducers": "",
+                      "path": "",
+                      "crosspartner": null,
+                      "crosspartner2": null,
+                      "crossleftpartner": null,
+                      "jmtboxes": "",
+                      "linebreak": null
+                    },
+                    "generalprop": [
+                      {
+                        "no": "WSThickness",
+                        "value": "2",
+                        "rule": ""
+                      }
+                    ],
+                    "dimension": null,
+                    "name": "BUSWAY_SBD_SLAB",
+                    "type": null,
+                    "rule": "",
+                    "uid": "464258047",
+                    "isSketcher": "true"
+                  }
+                ],
+                "positions": {
+                  "x": null,
+                  "y": null,
+                  "z": null
+                },
+                "scaling": {
+                  "x": null,
+                  "y": null,
+                  "z": null
+                },
+                "rotation": {
+                  "x": null,
+                  "y": null,
+                  "z": null
+                },
+                "relationships": {
+                  "linebreakposition": null,
+                  "linebreakscaling": null,
+                  "tcon": null,
+                  "leftpartner": null,
+                  "elbow": null,
+                  "partner": null,
+                  "leftfeeder": null,
+                  "tpartner": null,
+                  "tconleftpartner": null,
+                  "phasearrow": null,
+                  "phasearrowtext": null,
+                  "hangers": null,
+                  "roofs": null,
+                  "walls": null,
+                  "meters": null,
+                  "panels": null,
+                  "fusibleplugs": null,
+                  "circuitbreakers": null,
+                  "reducers": null,
+                  "path": null,
+                  "crosspartner": null,
+                  "crosspartner2": null,
+                  "crossleftpartner": null,
+                  "jmtboxes": null,
+                  "linebreak": null
+                },
+                "generalprop": [ ],
+                "dimension": null,
+                "name": "TYZ:BWSEN_RUN_QQ",
+                "type": "",
+                "rule": null,
+                "uid": null,
+                "isSketcher": "false"
+              }
+            ],
+            "positions": {
+              "x": null,
+              "y": null,
+              "z": null
+            },
+            "scaling": {
+              "x": null,
+              "y": null,
+              "z": null
+            },
+            "rotation": {
+              "x": null,
+              "y": null,
+              "z": null
+            },
+            "relationships": {
+              "linebreakposition": null,
+              "linebreakscaling": null,
+              "tcon": null,
+              "leftpartner": null,
+              "elbow": null,
+              "partner": null,
+              "leftfeeder": null,
+              "tpartner": null,
+              "tconleftpartner": null,
+              "phasearrow": null,
+              "phasearrowtext": null,
+              "hangers": null,
+              "roofs": null,
+              "walls": null,
+              "meters": null,
+              "panels": null,
+              "fusibleplugs": null,
+              "circuitbreakers": null,
+              "reducers": null,
+              "path": null,
+              "crosspartner": null,
+              "crosspartner2": null,
+              "crossleftpartner": null,
+              "jmtboxes": null,
+              "linebreak": null
+            },
+            "generalprop": [ ],
+            "dimension": null,
+            "name": "TYZ:BW_BSWY_RUN",
+            "type": "",
+            "rule": null,
+            "uid": null,
+            "isSketcher": "false"
+          }
+        ],
+        "positions": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "scaling": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "rotation": {
+          "x": null,
+          "y": null,
+          "z": null
+        },
+        "relationships": {
+          "linebreakposition": null,
+          "linebreakscaling": null,
+          "tcon": null,
+          "leftpartner": null,
+          "elbow": null,
+          "partner": null,
+          "leftfeeder": null,
+          "tpartner": null,
+          "tconleftpartner": null,
+          "phasearrow": null,
+          "phasearrowtext": null,
+          "hangers": null,
+          "roofs": null,
+          "walls": null,
+          "meters": null,
+          "panels": null,
+          "fusibleplugs": null,
+          "circuitbreakers": null,
+          "reducers": null,
+          "path": null,
+          "crosspartner": null,
+          "crosspartner2": null,
+          "crossleftpartner": null,
+          "jmtboxes": null,
+          "linebreak": null
+        },
+        "generalprop": [ ],
+        "dimension": null,
+        "name": "TYZ:BW_SYSTEM",
+        "type": "",
+        "rule": null,
+        "uid": null,
+        "isSketcher": "false"
+      },
+      "commonDimension": {
+        "straightsWidth": "3.9",
+        "straightsHeight": "5"
+      },
+      "notes": [ ],
+      "modelName": "BW_BSWY_RUN",
+      "rule": null,
+      "lineBreak": false
+    }
+  ]
+}
+
