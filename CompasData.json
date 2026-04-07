@@ -1,0 +1,25 @@
+{
+
+	"url": [{
+			"environment": "https://www.compas.siemens-info.com/",
+			"defaultExt": "mCompas/"
+		},{
+		
+			"environment": "https://q02.compasquality.siemens-info.com/",
+			"defaultExt": "mCompas_SQR/"
+		},
+		{
+			"environment": "https://dev2.compasquality.siemens-info.com/",
+			"defaultExt": "mCompas_SQR/"
+		},
+		{
+			"environment": "https://beta.compasquality.siemens-info.com/",
+			"defaultExt": "mCompas/"
+		}
+	],
+	"hotspotsEnable": true,
+	"useC3Models" : "true",
+	"useSandy": false,
+	"version": "14",
+	"modelUrlBase": "https://beta.compasquality.siemens-info.com/c3services/doc/d5/"
+}
