@@ -1,0 +1,157 @@
+{
+	"config": [{
+		"INSTANCE": [{
+				"CSTIC": [{
+						"number": "60001",
+						"value": "90.0",
+						"name": "A7J_HEIGHT"
+					},
+					{
+						"number": "60002",
+						"value": "38.0",
+						"name": "A7J_WIDTH"
+					},
+					{
+						"number": "60004",
+						"value": "0.0",
+						"name": "POS_X"
+					},
+					{
+						"number": "60005",
+						"value": "0.0",
+						"name": "POS_Y"
+					},
+					{
+						"number": "60020",
+						"value": "28.0",
+						"name": "A7J_DEPTH"
+					},
+					{
+						"number": "16",
+						"value": "SECTION",
+						"name": "A7J_DM_DEVICE_USAGE"
+					},
+					{
+						"number": "70034",
+						"value": "4002|ELEC01_1,EVAR01_34;4000|ELEC01_3,ELEC01_6,ELEC01_8",
+						"name": "A7J_ISYMBOL"
+					},
+					{
+						"number": "70071",
+						"value": "1002|MECH01_1,MVAR01_10,MVAR01_2,MVAR01_12",
+						"name": "A7J_ISYMBOL_MECH"
+					},
+					{
+						"number": "70015",
+						"value": "16",
+						"name": "INSTANCE_ID"
+					}
+				],
+				"id": "SBD3_SECTION2",
+				"parentInstanceId": "20"
+			},
+			{
+				"CSTIC": [{
+						"number": "60001",
+						"value": "90.0",
+						"name": "A7J_HEIGHT"
+					},
+					{
+						"number": "60002",
+						"value": "38.0",
+						"name": "A7J_WIDTH"
+					},
+					{
+						"number": "60004",
+						"value": "38.0",
+						"name": "POS_X"
+					},
+					{
+						"number": "60005",
+						"value": "0.0",
+						"name": "POS_Y"
+					},
+					{
+						"number": "60020",
+						"value": "28.0",
+						"name": "A7J_DEPTH"
+					},
+					{
+						"number": "16",
+						"value": "SECTION",
+						"name": "A7J_DM_DEVICE_USAGE"
+					},
+					{
+						"number": "70034",
+						"value": "4001|ELEC01_1,EVAR01_34,EVAR01_14;4007|ELEC01_3,ELEC01_4",
+						"name": "A7J_ISYMBOL"
+					},
+					{
+						"number": "70071",
+						"value": "1001|MECH01_1,MVAR01_10,MVAR01_4",
+						"name": "A7J_ISYMBOL_MECH"
+					},
+					{
+						"number": "70015",
+						"value": "25",
+						"name": "INSTANCE_ID"
+					}
+				],
+				"id": "SBD3_SECTION3",
+				"parentInstanceId": "20"
+			},
+			{
+				"CSTIC": [{
+						"number": "60001",
+						"value": "90.0",
+						"name": "A7J_HEIGHT"
+					},
+					{
+						"number": "60002",
+						"value": "38.0",
+						"name": "A7J_WIDTH"
+					},
+					{
+						"number": "60004",
+						"value": "76.0",
+						"name": "POS_X"
+					},
+					{
+						"number": "60005",
+						"value": "0.0",
+						"name": "POS_Y"
+					},
+					{
+						"number": "60020",
+						"value": "28.0",
+						"name": "A7J_DEPTH"
+					},
+					{
+						"number": "16",
+						"value": "SECTION",
+						"name": "A7J_DM_DEVICE_USAGE"
+					},
+					{
+						"number": "70034",
+						"value": "4001|ELEC01_1,EVAR01_34,EVAR01_14;4007|ELEC01_3,ELEC01_4",
+						"name": "A7J_ISYMBOL"
+					},
+					{
+						"number": "70071",
+						"value": "1001|MECH01_1,MVAR01_10,MVAR01_4",
+						"name": "A7J_ISYMBOL_MECH"
+					},
+					{
+						"number": "70015",
+						"value": "25",
+						"name": "INSTANCE_ID"
+					}
+				],
+				"id": "SBD3_SECTION1",
+				"parentInstanceId": "20"
+			}
+		],
+		"id": "KRISNX_0X5C6C7E2A1166370C",
+		"errorMsg": ""
+	}]
+}
