@@ -1,0 +1,68 @@
+{
+  "files": [
+    {
+      "title": "buswaysystems.unity3d",
+      "url": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365620",
+      "version": "1.0",
+      "fileEntryId": 2365620,
+      "folderId": 2365579,
+      "groupId": 20181,
+      "createDate": "2020-10-08T10:49:36.000+0000",
+      "modifiedDate": "2020-10-08T10:49:36.000+0000",
+      "treePath": "/253107/266420/2351420/2364268/2365579/",
+      "uuid": "cfa155a6-f1b9-4e03-a37b-42960f9be874",
+      "attributes": {
+        "comment": "",
+        "title": "95plus.unity3d"
+      }
+    },
+    {
+      "title": "switchboards.unity3d",
+      "url": "https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366214",
+      "version": "1.0",
+      "fileEntryId": 2366214,
+      "folderId": 2365579,
+      "groupId": 20181,
+      "createDate": "2020-10-08T10:51:31.000+0000",
+      "modifiedDate": "2020-10-08T10:51:31.000+0000",
+      "treePath": "/253107/266420/2351420/2364268/2365579/",
+      "uuid": "567d250d-78a9-418f-a125-bc31faba0e98",
+      "attributes": {
+        "comment": "",
+        "title": "distributionswitchboards.unity3d"
+      }
+    },
+    {
+         "title":"residentialloadcenters.unity3d",
+         "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2365800",
+         "version":"1.0",
+         "fileEntryId":2365800,
+         "folderId":2365579,
+         "groupId":20181,
+         "createDate":"2020-10-08T10:49:49.000+0000",
+         "modifiedDate":"2020-10-08T10:49:49.000+0000",
+         "treePath":"/253107/266420/2351420/2364268/2365579/",
+         "uuid":"340907e6-2fbc-42a7-bacb-424ed0e37bd4",
+         "attributes":{
+            "comment":"",
+            "title":"loadcenters.unity3d"
+         }
+      },
+      {
+         "title":"multifamilymetering.unity3d",
+         "url":"https://www.compas.siemens-info.com/c3services/doc/d7/2365579/2366124",
+         "version":"1.0",
+         "fileEntryId":2366124,
+         "folderId":2365579,
+         "groupId":20181,
+         "createDate":"2020-10-08T10:50:53.000+0000",
+         "modifiedDate":"2020-10-08T10:50:53.000+0000",
+         "treePath":"/253107/266420/2351420/2364268/2365579/",
+         "uuid":"f24432f9-253e-43fc-a36b-efdd7c449e0e",
+         "attributes":{
+            "comment":"",
+            "title":"metering.unity3d"
+         }
+      }
+  ]
+}
